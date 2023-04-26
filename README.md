@@ -10,3 +10,8 @@ After cloinging the code, the client should run `npm i` in the terminal to insta
 
 ## Preview
 
+<img src="Text Editor.png">
+
+## Link
+
+The following is a link to the deployed app:  https://jordy-text-editor.herokuapp.com/
