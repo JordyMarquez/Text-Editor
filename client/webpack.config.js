@@ -36,6 +36,8 @@ module.exports = () => {
         inject: true,
         name: 'J.A.T.E',
         description: 'text editor',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
